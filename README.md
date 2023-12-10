@@ -49,3 +49,5 @@ The `UpSaveAccount` class is a concrete decorator for the UpSave savings account
 
 - **`showInfo()`**
   - **Expected Return:** Details of the account, including the account number, account name, and balance.
+
+![DecoratorPattern](https://github.com/lloydestrada/DecoratorPattern/assets/142376663/1b70107d-5e77-4fb3-9e19-97d3d3850e83)
